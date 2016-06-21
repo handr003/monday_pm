@@ -4,7 +4,7 @@ author: "Holly Andrews"
 date: "June 20, 2016"
 output: html_document
 ---
-
+New sentence.
 ## About this code
 
 ```{r load-libraries}
